@@ -62,3 +62,5 @@ print(result)
 result = search_coroutine.send("Jane")
 print(result)
 
+result = search_coroutine.send("Sarah")
+print(result)
